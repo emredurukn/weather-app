@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Whats the Weather
+//  API Demo
 //
-//  Created by Emre Durukan on 25.11.2018.
+//  Created by Emre Durukan on 4.12.2018.
 //  Copyright © 2018 Emre Durukan. All rights reserved.
 //
 
